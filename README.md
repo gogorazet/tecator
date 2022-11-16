@@ -4,6 +4,8 @@ All details about the exercise and data can be found here: https://www.openml.or
 
 Here, the goal is to analyze the dataset and predict the variable “fat” using machine learning methodologies.
 
+Main script: Tecator - ARazetti 4 Usense.ipynb
+
 Results and methodology are summarized here: https://docs.google.com/presentation/d/1vji543cdNZ1sYop-2QJWnrvxKXrRKqssRsSyIu1ChqY/edit#slide=id.p
 
 ## Data summary
