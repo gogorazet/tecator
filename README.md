@@ -1,8 +1,10 @@
 # tecator
 
-All details about the exercise and data can be found here https://www.openml.org/search?type=data&sort=runs&id=505&status=active
+All details about the exercise and data can be found here: https://www.openml.org/search?type=data&sort=runs&id=505&status=active
 
 Here, the goal is to analyze the dataset and predict the variable “fat” using machine learning methodologies.
+
+Results and methodology are summarized here: https://docs.google.com/presentation/d/1vji543cdNZ1sYop-2QJWnrvxKXrRKqssRsSyIu1ChqY/edit#slide=id.p
 
 ## Data summary
 
